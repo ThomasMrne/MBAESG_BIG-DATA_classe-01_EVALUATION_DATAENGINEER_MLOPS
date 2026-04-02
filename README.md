@@ -103,4 +103,3 @@ Le compte Snowflake Trial ne supporte pas l'External Access
 Integration (EAI). L'application Streamlit utilise donc une 
 régression linéaire numpy native plutôt que le modèle XGBoost 
 du Model Registry, qui reste accessible depuis le Notebook.
-```
