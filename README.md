@@ -1,4 +1,4 @@
-# 🏠 House Price Prediction — Snowflake ML Pipeline
+# 🏠 House Price Prediction - Snowflake ML Pipeline
 
 ## MBAESG_[BIG DATA & IA]_[01]_EVALUATION_DATAENGINEER_MLOPS
 
